@@ -8,6 +8,7 @@ type: software
 authors:
   - family-names: "Winiski"
     given-names: "Jake"
+    orcid: "https://orcid.org/0009-0003-7742-1284"
 
 abstract: >
   FUNGI-TUBE is an open-source modular solid-state fungal
@@ -38,8 +39,7 @@ version: "1.0.0"
 
 date-released: "2026-05-24"
 
-# Add DOI after first Zenodo release:
-# doi: "10.5281/zenodo.xxxxxxx"
+doi: "10.5281/zenodo.xxxxxxx"
 
 preferred-citation:
   type: software
