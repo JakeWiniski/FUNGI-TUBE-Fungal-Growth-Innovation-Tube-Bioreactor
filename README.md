@@ -1,4 +1,6 @@
 # FUNGI-TUBE: Fungal-Growth-Innovation-Tube-Bioreactor
+[![DOI](https://zenodo.org/badge/1248267456.svg)](https://doi.org/10.5281/zenodo.20366745)
+
 FUNGI-TUBE (Fungal Growth & Innovation Tube Bioreactor) is a modular solid-state bioreactor system that integrates passive aeration and low-cost, non-invasive sensing to monitor and optimize fungal growth and metabolism across diverse applications—including mycelium materials, mushroom cultivation, and solid-state fermentation. Designed to maximize data richness relative to unit cost, the system supports large experimental arrays (high n) with a deep feature space, enabling time-resolved insight into both physical growth and metabolic activity. By coupling structural, optical, thermal, and gas-phase monitoring, FUNGI-TUBE functions as a low-cost “budget biofoundry” for adaptive learning, trait screening, and myco-centric R&D.
 
 ## FRAME — *Fungal-Response-And-Mycelium-Evolution Module*
