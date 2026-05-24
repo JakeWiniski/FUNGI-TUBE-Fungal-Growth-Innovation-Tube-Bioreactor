@@ -1,0 +1,52 @@
+cff-version: 1.2.0
+message: "If you use FUNGI-TUBE in research, teaching, or development, please cite it using the metadata below."
+
+title: "FUNGI-TUBE: Fungal Growth & Innovation Tube Bioreactor"
+
+type: software
+
+authors:
+  - family-names: "Winiski"
+    given-names: "Jake"
+
+abstract: >
+  FUNGI-TUBE is an open-source modular solid-state fungal
+  bioreactor platform integrating non-invasive sensing,
+  environmental monitoring, and reproducible data workflows
+  for high-throughput characterization and adaptive learning
+  of fungal growth and metabolism.
+
+repository-code: "https://github.com/JakeWiniski/FUNGI-TUBE-Fungal-Growth-Innovation-Tube-Bioreactor"
+
+url: "https://github.com/JakeWiniski/FUNGI-TUBE-Fungal-Growth-Innovation-Tube-Bioreactor"
+
+license: "CERN-OHL-S-2.0"
+
+keywords:
+  - fungi
+  - mycelium
+  - solid-state fermentation
+  - fungal growth monitoring
+  - bioreactor
+  - open hardware
+  - environmental sensing
+  - mycelium materials
+  - mushroom cultivation
+  - bioprocess development
+
+version: "1.0.0"
+
+date-released: "2026-05-24"
+
+# Add DOI after first Zenodo release:
+# doi: "10.5281/zenodo.xxxxxxx"
+
+preferred-citation:
+  type: software
+  authors:
+    - family-names: "Winiski"
+      given-names: "Jake"
+  title: "FUNGI-TUBE: Fungal Growth & Innovation Tube Bioreactor"
+  version: "1.0.0"
+  year: 2026
+  url: "https://github.com/JakeWiniski/FUNGI-TUBE-Fungal-Growth-Innovation-Tube-Bioreactor"
