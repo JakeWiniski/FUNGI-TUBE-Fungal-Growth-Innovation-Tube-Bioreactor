@@ -46,7 +46,9 @@ preferred-citation:
   authors:
     - family-names: "Winiski"
       given-names: "Jake"
+      orcid: "https://orcid.org/0009-0003-7742-1284"
   title: "FUNGI-TUBE: Fungal Growth & Innovation Tube Bioreactor"
   version: "1.0.0"
   year: 2026
+  doi: "10.5281/zenodo.20366746"
   url: "https://github.com/JakeWiniski/FUNGI-TUBE-Fungal-Growth-Innovation-Tube-Bioreactor"
