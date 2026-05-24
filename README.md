@@ -95,3 +95,22 @@ The FUNGI-TUBE project is licensed under the CERN Open Hardware License v2 – S
 You are free to use, modify, and distribute the design and derivatives, provided attribution is given and derivatives remain under the same license.
 
 See the [LICENSE](./LICENSE) file for more information.
+
+## Citation
+
+If you use FUNGI-TUBE in research, teaching, or development, please cite:
+
+Winiski, J. (2026). *FUNGI-TUBE: Fungal Growth & Innovation Tube Bioreactor* (Version 1.0.0). Zenodo. https://doi.org/10.5281/zenodo.20366746
+
+### BibTeX
+
+```bibtex
+@software{winiski_fungi_tube_2026,
+  author = {Winiski, Jake},
+  title = {FUNGI-TUBE: Fungal Growth & Innovation Tube Bioreactor},
+  version = {1.0.0},
+  year = {2026},
+  publisher = {Zenodo},
+  doi = {10.5281/zenodo.20366746},
+  url = {https://doi.org/10.5281/zenodo.20366746}
+}
