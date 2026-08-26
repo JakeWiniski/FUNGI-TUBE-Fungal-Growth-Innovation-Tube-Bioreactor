@@ -96,6 +96,10 @@ You are free to use, modify, and distribute the design and derivatives, provided
 
 See the [LICENSE](./LICENSE) file for more information.
 
+## AI Use Disclosure
+
+This project was developed with assistance from generative AI and coding-agent tools. AI was used for coding, debugging, and development support; analytical design, validation, interpretation, and final decisions were performed by the author.
+
 ## Citation
 
 If you use FUNGI-TUBE in research, teaching, or development, please cite:
